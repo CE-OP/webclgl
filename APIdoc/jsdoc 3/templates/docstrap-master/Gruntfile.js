@@ -334,7 +334,7 @@ function getBootSwatchList( done ) {
  * This method will get one of the components from Bootswatch, which is generally a `less` file or a `lessVariables` file.
  *
  * @see http://news.bootswatch.com/post/22193315172/bootswatch-api
- * @param {string} url The url to retreive from
+ * @param {string} url The url to retrieve from
  * @param {function(err, responseText)} done The callback when complete
  * @param {?object} done.err If an error occurred, you will find it here.
  * @param {string} done.responseText The body of whatever was returned
