@@ -115,7 +115,7 @@ exports.jsdocSchema = {
                         "optional": true,
                         "maxItems": 1
                     },
-                    "access": { // what access priviledges are allowed
+                    "access": { // what access privileges are allowed
                         "type": "string",
                         "optional": true,
                         "maxItems": 1,
